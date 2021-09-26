@@ -1,73 +1,226 @@
-.ban hoss00310 bot/ipgrabber
-.ban hoss00311 bot/ipgrabber
-.ban hoss0312 bot/ipgrabber
-.ban hossoo312 bot/ipgrabber
-.ban hoss000312 bot/ipgrabber
-.ban hoss00312_ bot/ipgrabber
-.ban hoss00313 bot/ipgrabber
-.ban hoss00314 bot/ipgrabber
-.ban hoss00315 bot/ipgrabber
-.ban hoss00320 bot/ipgrabber
-.ban hoss00321 bot/ipgrabber
-.ban hoss00322 bot/ipgrabber
-.ban hoss00323 bot/ipgrabber
-.ban hoss00812 bot/ipgrabber
-.ban not_hoss00322 bot/ipgrabber
-.ban hoss00132__ bot/ipgrabber
-.ban h0ss00313 bot/ipgrabber
-.ban h0ssoo3124 bot/ipgrabber
-.ban hossoo_420 bot/ipgrabber
-.ban hossooo900 bot/ipgrabber
-.ban bj5aqwrz3 bot/ipgrabber
-.ban rryz4dnm bot/ipgrabber
-.ban 8po68h bot/ipgrabber
-.ban hoss000952 bot/ipgrabber
-.ban bossh0ss bot/ipgrabber
-.ban hossmafiamerda bot/ipgrabber
-.ban hoss692690 bot/ipgrabber
-.ban hoss00275 bot/ipgrabber
-.ban hoss20 bot/ipgrabber
-.ban hoss000759 bot/ipgrabber
-.ban hoss00813 bot/ipgrabber
-.ban hoss00812 bot/ipgrabber
-.ban h0ssh bot/ipgrabber
-.ban hoss00685 bot/ipgrabber
-.ban hoss00391 bot/ipgrabber
-.ban bigh0ssman bot/ipgrabber
-.ban hoss000312 bot/ipgrabber
-.ban hosseintsh123123 bot/ipgrabber
-.ban hoss22148 bot/ipgrabber
-.ban hoss2002 bot/ipgrabber
-.ban hoss10868 bot/ipgrabber
-.ban exhoss bot/ipgrabber
-.ban thehoss23 bot/ipgrabber
-.ban hossgamers bot/ipgrabber
-.ban hossinferno bot/ipgrabber
-.ban hoss0321 bot/ipgrabber
-.ban h0ss_00v2 bot/ipgrabber
-.ban hoss00310 bot/ipgrabber
-.ban hoss_sheeshers bot/ipgrabber
-.ban hoss00323 bot/ipgrabber
-.ban hoss0031 bot/ipgrabber
-.ban not_hoss00322 bot/ipgrabber
-.ban h0ss00313 bot/ipgrabber
-.ban h0ss00312 bot/ipgrabber
-.ban h0ss003122 bot/ipgrabber
-.ban h0ssoo3124 bot/ipgrabber
-.ban hoss00812 bot/ipgrabber
-.ban hosso0312 bot/ipgrabber
-.ban H0SSO0312 bot/ipgrabber
-.ban Lunar_was_here bot/ipgrabber/hate raid
-.ban deprived_life bot/ipgrabber/hate raid
-.ban Manolia_403 bot/ipgrabber/hate raid
-.ban Manolia_life bot/ipgrabber/hate raid
-.ban Manolia_lunar bot/ipgrabber/hate raid
-.ban Manolia_kaat bot/ipgrabber/hate raid
-.ban Manolia_meow bot/ipgrabber/hate raid
-.ban 404_preview bot/ipgrabber/hate raid
-.ban fragilitys bot/ipgrabber/hate raid
-.ban manolia bot/ipgrabber/hate raid
-.ban ForeGATHERS bot/ipgrabber/hate raid
-.ban Iunar_ipv4 bot/ipgrabber/hate raid
-.ban manoliattv bot/ipgrabber/hate raid
-.ban hoss00312_____ bot/ipgrabber/hate raid
+.ban hoss00312_wry
+.ban hoss00312_punch
+.ban hoss00312_reach
+.ban hoss00312_digestion
+.ban hoss00312_gainful
+.ban hoss00312_quarter
+.ban hoss00312_thin
+.ban hoss00312_hallowed
+.ban hoss00312_request
+.ban hoss00312_futuristic
+.ban hoss00312_scratch
+.ban hoss00312_plug
+.ban hoss00312_press
+.ban hoss00312_consist
+.ban hoss00312_raspy
+.ban hoss00312_plane
+.ban hoss00312_robust
+.ban hoss00312_trouble
+.ban hoss00312_soap
+.ban hoss00312_ordinary
+.ban hoss00312_uninterested
+.ban hoss00312_noise
+.ban hoss00312_fertile
+.ban hoss00312_godly
+.ban hoss00312_vacation
+.ban hoss00312_church
+.ban hoss00312_protest
+.ban hoss00312_growth
+.ban hoss00312_icky
+.ban hoss00312_ambitious
+.ban hoss00312_warm
+.ban hoss00312_lace
+.ban hoss00312_gorgeous
+.ban hoss00312_park
+.ban hoss00312_water
+.ban hoss00312_advice
+.ban hoss00312_helpful
+.ban hoss00312_animal
+.ban hoss00312_society
+.ban hoss00312_behavior
+.ban hoss00312_greet
+.ban hoss00312_trashy
+.ban hoss00312_guess
+.ban hoss00312_card
+.ban hoss00312_treat
+.ban hoss00312_marked
+.ban hoss00312_erratic
+.ban hoss00312_receive
+.ban hoss00312_choke
+.ban hoss00312_lamp
+.ban hoss00312_morning
+.ban hoss00312_sticks
+.ban hoss00312_abstracted 
+.ban hoss00312_strip
+.ban hoss00312_lunch
+.ban hoss00312_print
+.ban hoss00312_tasty
+.ban hoss00312_rings
+.ban hoss00312_saw
+.ban hoss00312_receptive
+.ban hoss00312_whistle
+.ban hoss00312_far
+.ban hoss00312_sloppy
+.ban hoss00312_thinkable
+.ban hoss00312_judge
+.ban hoss00312_oldfashioned
+.ban hoss00312_smell
+.ban hoss00312_coat
+.ban hoss00312_person
+.ban hoss00312_miss
+.ban hoss00312_cap
+.ban hoss00312_serious
+.ban hoss00312_black
+.ban hoss00312_zephyr
+.ban hoss00312_extralarge
+.ban hoss00312_interrupt
+.ban hoss00312_chivalrous
+.ban hoss00312_force
+.ban hoss00312_beneficial
+.ban hoss00312_yummy
+.ban hoss00312_unhealthy
+.ban hoss00312_guttural
+.ban hoss00312_tin
+.ban hoss00312_shame
+.ban hoss00312_table
+.ban hoss00312_color
+.ban hoss00312_obeisant
+.ban hoss00312_eight
+.ban hoss00312_ajar
+.ban hoss00312_shoe
+.ban hoss00312_tranquil
+.ban hoss00312_divergent 
+.ban hoss00312_film
+.ban hoss00312_ashamed
+.ban hoss00312_verdant
+.ban hoss00312_tray
+.ban hoss00312_telephone
+.ban hoss00312_electric
+.ban hoss00312_magical
+.ban hoss00312_foregoing
+.ban hoss00312_harbor
+.ban hoss00312_pipe
+.ban hoss00312_heavy
+.ban hoss00312_fearful
+.ban hoss00312_psychedelic 
+.ban hoss00312_amazing
+.ban hoss00312_supply
+.ban hoss00312_scarecrow
+.ban hoss00312_defeated
+.ban hoss00312_drawer
+.ban hoss00312_sea
+.ban hoss00312_contain
+.ban hoss00312_fetch
+.ban hoss00312_fluttering
+.ban hoss00312_aberrant
+.ban hoss00312_peel
+.ban hoss00312_drab
+.ban hoss00312_omniscient
+.ban hoss00312_queue
+.ban hoss00312_heartbreaking
+.ban hoss00312_committee
+.ban hoss00312_adorable
+.ban hoss00312_amount
+.ban hoss00312_fine
+.ban hoss00312_juvenile
+.ban hoss00312_certain
+.ban hoss00312_tiny
+.ban hoss00312_fear
+.ban hoss00312_unbiased
+.ban hoss00312_statusque
+.ban hoss00312_abroad
+.ban hoss00312_normal
+.ban hoss00312_chilly
+.ban hoss00312_expect
+.ban hoss00312_silver
+.ban hoss00312_greasey
+.ban hoss00312_unruly
+.ban hoss00312_weight
+.ban hoss00312_manage
+.ban hoss00312_hawkuu
+.ban hoss00312_smooth
+.ban hoss00312_battle
+.ban hoss00312_.
+.ban hoss00312
+.ban hoss00312_tricks
+.ban hoss00312_testing
+.ban hoss00312_tester2
+.ban hoss00312_follows
+.ban hoss00312_____jus
+.ban hoss00312_sparkle
+.ban hoss00312_jobless
+.ban hoss00312_airport
+.ban hoss00312_average
+.ban hoss00312_picture
+.ban hoss00312_owns_twitch
+.ban hoss00312_jittery
+.ban hoss00312_dontban
+.ban hoss00312_michael
+.ban hoss00312__gamer
+.ban hoss00312_frantic
+.ban hoss00312_cheese
+.ban hoss00312_band11
+.ban hoss00312_crowded
+.ban hoss00312_impulse
+.ban hoss00312_69
+.ban hoss00312_iceicles
+.ban hoss00388
+.ban hoss00343
+.ban hoss00375
+.ban hoss00397
+.ban hoss00353
+.ban hoss0031220
+.ban hoss0031212
+.ban hoss00312_prose
+.ban hoss00312_wrathful
+.ban hoss00312_symptomatic
+.ban hoss00312_unbiased
+.ban hoss00312_picture
+.ban hoss00312_pan
+.ban hoss00312_
+.ban host00312
+.ban hoss00312_is_the_best
+.ban hoss00312_haha
+.ban hoss00312_lllIlllIIIlll
+.ban hoss00312_lllIIllllIII
+.ban hoss00312_has_won
+.ban hoss00312_lllIIIlllIIIlll
+.ban hoss00312_is_alive
+.ban hoss00312_spy
+.ban hoss00312_pogchamp
+.ban hoss00312_is_after_you
+.ban hoss00312_giver
+.ban hoss00312_kinky
+.ban hoss00312_handy
+.ban hoss00312_wins
+.ban hoss00312_lllIIllIlllllI
+.ban hoss00312_is_a_hero
+.ban hoss00312_is_not_a_bot
+.ban hoss00312_army
+.ban hoss00312_owns_twitch
+.ban hoss00312_dinger
+.ban hoss00312_llliillillllli
+.ban hoss00312_llliillllilllii
+.ban hoss00312_lliiilllliilll
+.ban hoss00312_llliiillliiilll
+.ban hoss00312_lllIlllIIIlll
+.ban hoss00312_lllillliiilll
+.ban hoss00312_lliilllillllii
+.ban hoss00312_lllliiillllii
+.ban hoss00312_is_here
+.ban hoss00312_hello
+.ban hoss00312_llliillllilllli
+.ban hoss00312_llliilllliiill
+.ban hoss00312_lllliiilllliill
+.ban hoss00312_llliilllliii
+.ban hoss00312_elite_race
+.ban blueberrydogs_timtimam
+.ban blueberrydogs_hoshihitode
+.ban blueberrydogs_fusa333
+.ban blueberrydogs_rohhei
+.ban blueberrydogs_momoken09
+.ban blueberrydogs_detikou0
+.ban blueberrydogs_liar_wolf
+.ban blueberrydogs_nkill__
+.ban blueberrydogs_jitype
+.ban blueberrydogs_orautan71
